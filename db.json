@@ -4,10 +4,10 @@
       "name": "Leanne Graham",
       "email": "Sincere@april.biz",
       "active": true,
-      "id": "1"
+      "id": 1
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Ervin Howell",
       "email": "Shanna@melissa.tv",
       "active": true
@@ -16,16 +16,16 @@
       "name": "Clementine Bauch",
       "email": "Nathan@yesenia.net",
       "active": false,
-      "id": "3"
+      "id": 3
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Patricia Lebsack",
       "email": "Julianne.OConner@kory.org",
       "active": true
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Chelsey Dietrich",
       "email": "Lucio_Hettinger@annie.ca",
       "active": true
@@ -34,34 +34,34 @@
       "name": "Mrs. Dennis Schulist",
       "email": "Karley_Dach@jasper.info",
       "active": false,
-      "id": "6"
+      "id": 6
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Kurtis Weissnat",
       "email": "Telly.Hoeger@billy.biz",
       "active": true
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Nicholas Runolfsdottir V",
       "email": "Sherwood@rosamond.me",
       "active": true
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Glenna Reichert",
       "email": "Chaim_McDermott@dana.io",
       "active": false
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Clementina DuBuque",
       "email": "Rey.Padberg@karina.biz",
       "active": true
     },
     {
-      "id": "099f",
+      "id": 11,
       "name": "TESTE",
       "email": "teste@teste.com",
       "active": true
